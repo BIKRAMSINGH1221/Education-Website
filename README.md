@@ -13,7 +13,7 @@ CSS3
 JavaScript
 jQuery
 
-Ready to explore our responsive educational website? Visit the live demo (https://bikramsingh1221.github.io/Education-Website/)and start exploring today!
+Ready to explore our responsive educational website? Visit the live demo (https://bikramsingh1221.github.io/Education-Website/) and start exploring today!
 
 
 Thank you for your interest in our Responsive Educational Website project. 🚀
