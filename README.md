@@ -8,10 +8,10 @@ In today's digital age, accessibility and responsiveness are paramount. Our educ
 
 Technologies Used:
 
-HTML5
-CSS3
-JavaScript
-jQuery
+HTML5, 
+CSS3, 
+JavaScript, 
+jQuery, 
 
 Ready to explore our responsive educational website? Visit the live demo (https://bikramsingh1221.github.io/Education-Website/) and start exploring today!
 
