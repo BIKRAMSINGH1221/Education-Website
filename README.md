@@ -1,3 +1,5 @@
+#Responsive Imaginary Educational Website
+
 🌟 Introducing: Responsive Educational Website 🌟
 
 Welcome to our latest GitHub repository showcasing the creation of a cutting-edge educational website designed to adapt seamlessly across all devices!
@@ -7,7 +9,7 @@ This is an imaginary website build to learn and implement concept of responsiven
 In today's digital age, accessibility and responsiveness are paramount. Our educational website is meticulously crafted to provide an immersive learning experience regardless of the device being used. From desktop computers to smartphones and tablets, users can engage with educational content effortlessly.
 
 Technologies Used:
-
+  
 HTML5, 
 CSS3, 
 JavaScript, 
